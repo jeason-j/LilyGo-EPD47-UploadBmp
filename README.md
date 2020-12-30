@@ -11,3 +11,6 @@ https://github.com/Xinyuan-LilyGO/T5-Ink-Screen-Series </br>
 <b> 说明：</b>  </br>
    缺少实用性，可能是因为屏分辨率太大，一个位图文件至少500kb,上传并刷图需要约30-40秒。 </br>
    需改进 </br>
+<br/>
+<img src= 'https://raw.githubusercontent.com/lixy123/LilyGo-EPD47-UploadBmp/main/epd47.JPG' /> 
+<br/>
