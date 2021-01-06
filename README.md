@@ -12,6 +12,9 @@ https://github.com/Xinyuan-LilyGO/T5-Ink-Screen-Series </br>
    完全缺少实用性，不好用, 原因如下: </br>
    1.屏分辨率太大，一个位图文件至少500kb,上传并刷图需要约30-40秒。 </br>
    2.bmp 文件需要提前转换好,制作麻烦 </br>
+   
+   可考虑上位机用树莓派,通过串口直连将bmp下传到此墨水屏,每张图生成到传输大约需要2-5秒即可,更实用.
+   
 <br/>
 <img src= 'https://raw.githubusercontent.com/lixy123/LilyGo-EPD47-UploadBmp/main/epd47.JPG' /> 
 <br/>
